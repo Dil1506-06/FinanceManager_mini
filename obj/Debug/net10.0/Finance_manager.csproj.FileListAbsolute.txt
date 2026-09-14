@@ -1,0 +1,14 @@
+C:\code\Finance_manager\obj\Debug\net10.0\Finance_manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Finance_manager\obj\Debug\net10.0\Finance_manager.AssemblyInfoInputs.cache
+C:\code\Finance_manager\obj\Debug\net10.0\Finance_manager.AssemblyInfo.cs
+C:\code\Finance_manager\obj\Debug\net10.0\Finance_manager.csproj.CoreCompileInputs.cache
+C:\code\Finance_manager\bin\Debug\net10.0\Finance_manager.exe
+C:\code\Finance_manager\bin\Debug\net10.0\Finance_manager.deps.json
+C:\code\Finance_manager\bin\Debug\net10.0\Finance_manager.runtimeconfig.json
+C:\code\Finance_manager\bin\Debug\net10.0\Finance_manager.dll
+C:\code\Finance_manager\bin\Debug\net10.0\Finance_manager.pdb
+C:\code\Finance_manager\obj\Debug\net10.0\Finance_manager.dll
+C:\code\Finance_manager\obj\Debug\net10.0\refint\Finance_manager.dll
+C:\code\Finance_manager\obj\Debug\net10.0\Finance_manager.pdb
+C:\code\Finance_manager\obj\Debug\net10.0\Finance_manager.genruntimeconfig.cache
+C:\code\Finance_manager\obj\Debug\net10.0\ref\Finance_manager.dll
